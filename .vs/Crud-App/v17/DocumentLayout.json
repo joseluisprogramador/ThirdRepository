@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jose\\Desktop\\Crud-App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15474DF9-A3DA-4619-9C43-64DA02196F2A}|Project_Interface\\Project_Interface.csproj|c:\\users\\jose\\desktop\\crud-app\\project_interface\\form_students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15474DF9-A3DA-4619-9C43-64DA02196F2A}|Project_Interface\\Project_Interface.csproj|solutionrelative:project_interface\\form_students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8DF50B-62C7-4B34-85B9-591B2E601F65}|Project_Logic\\Project_Logic.csproj|c:\\users\\jose\\desktop\\crud-app\\project_logic\\class_logic\\class_logictoselectquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8DF50B-62C7-4B34-85B9-591B2E601F65}|Project_Logic\\Project_Logic.csproj|solutionrelative:project_logic\\class_logic\\class_logictoselectquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15474DF9-A3DA-4619-9C43-64DA02196F2A}|Project_Interface\\Project_Interface.csproj|c:\\users\\jose\\desktop\\crud-app\\project_interface\\form_students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15474DF9-A3DA-4619-9C43-64DA02196F2A}|Project_Interface\\Project_Interface.csproj|solutionrelative:project_interface\\form_students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class_LogicToSelectQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\Crud-App\\Project_Logic\\Class_Logic\\Class_LogicToSelectQuery.cs",
+              "RelativeDocumentMoniker": "Project_Logic\\Class_Logic\\Class_LogicToSelectQuery.cs",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\Crud-App\\Project_Logic\\Class_Logic\\Class_LogicToSelectQuery.cs",
+              "RelativeToolTip": "Project_Logic\\Class_Logic\\Class_LogicToSelectQuery.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T06:31:12.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_Students.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\Crud-App\\Project_Interface\\Form_Students.cs",
+              "RelativeDocumentMoniker": "Project_Interface\\Form_Students.cs",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\Crud-App\\Project_Interface\\Form_Students.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Project_Interface\\Form_Students.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T01:56:17.487Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form_Students.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\Crud-App\\Project_Interface\\Form_Students.cs",
+              "RelativeDocumentMoniker": "Project_Interface\\Form_Students.cs",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\Crud-App\\Project_Interface\\Form_Students.cs",
+              "RelativeToolTip": "Project_Interface\\Form_Students.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwB0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:35:22.18Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

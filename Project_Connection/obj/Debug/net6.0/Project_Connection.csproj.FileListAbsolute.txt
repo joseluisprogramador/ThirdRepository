@@ -1,0 +1,12 @@
+C:\Users\Jose\Desktop\Crud-App\Project_Connection\bin\Debug\net6.0\Project_Connection.deps.json
+C:\Users\Jose\Desktop\Crud-App\Project_Connection\bin\Debug\net6.0\Project_Connection.dll
+C:\Users\Jose\Desktop\Crud-App\Project_Connection\bin\Debug\net6.0\Project_Connection.pdb
+C:\Users\Jose\Desktop\Crud-App\Project_Connection\obj\Debug\net6.0\Project_Connection.csproj.AssemblyReference.cache
+C:\Users\Jose\Desktop\Crud-App\Project_Connection\obj\Debug\net6.0\Project_Connection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\Desktop\Crud-App\Project_Connection\obj\Debug\net6.0\Project_Connection.AssemblyInfoInputs.cache
+C:\Users\Jose\Desktop\Crud-App\Project_Connection\obj\Debug\net6.0\Project_Connection.AssemblyInfo.cs
+C:\Users\Jose\Desktop\Crud-App\Project_Connection\obj\Debug\net6.0\Project_Connection.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\Crud-App\Project_Connection\obj\Debug\net6.0\Project_Connection.dll
+C:\Users\Jose\Desktop\Crud-App\Project_Connection\obj\Debug\net6.0\refint\Project_Connection.dll
+C:\Users\Jose\Desktop\Crud-App\Project_Connection\obj\Debug\net6.0\Project_Connection.pdb
+C:\Users\Jose\Desktop\Crud-App\Project_Connection\obj\Debug\net6.0\ref\Project_Connection.dll

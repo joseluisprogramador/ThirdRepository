@@ -1,0 +1,15 @@
+C:\Users\Jose\Desktop\Crud-App\Project_Logic\bin\Debug\net6.0\Project_Logic.deps.json
+C:\Users\Jose\Desktop\Crud-App\Project_Logic\bin\Debug\net6.0\Project_Logic.dll
+C:\Users\Jose\Desktop\Crud-App\Project_Logic\bin\Debug\net6.0\Project_Logic.pdb
+C:\Users\Jose\Desktop\Crud-App\Project_Logic\bin\Debug\net6.0\Project_Connection.dll
+C:\Users\Jose\Desktop\Crud-App\Project_Logic\bin\Debug\net6.0\Project_Connection.pdb
+C:\Users\Jose\Desktop\Crud-App\Project_Logic\obj\Debug\net6.0\Project_Logic.csproj.AssemblyReference.cache
+C:\Users\Jose\Desktop\Crud-App\Project_Logic\obj\Debug\net6.0\Project_Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\Desktop\Crud-App\Project_Logic\obj\Debug\net6.0\Project_Logic.AssemblyInfoInputs.cache
+C:\Users\Jose\Desktop\Crud-App\Project_Logic\obj\Debug\net6.0\Project_Logic.AssemblyInfo.cs
+C:\Users\Jose\Desktop\Crud-App\Project_Logic\obj\Debug\net6.0\Project_Logic.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\Crud-App\Project_Logic\obj\Debug\net6.0\Project_Logic.dll
+C:\Users\Jose\Desktop\Crud-App\Project_Logic\obj\Debug\net6.0\refint\Project_Logic.dll
+C:\Users\Jose\Desktop\Crud-App\Project_Logic\obj\Debug\net6.0\Project_Logic.pdb
+C:\Users\Jose\Desktop\Crud-App\Project_Logic\obj\Debug\net6.0\ref\Project_Logic.dll
+C:\Users\Jose\Desktop\Crud-App\Project_Logic\obj\Debug\net6.0\Project_.DAE37FBC.Up2Date
